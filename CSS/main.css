@@ -1,7 +1,24 @@
-*{
-    padding: 0;
-    margin: 0;
-    border-radius: 0;
+
+body{
+    background-color: beige;
 }
+#wut01{
+    color: black;
+    background-color:beige;
+    text-align: center;
+}
+#wut02{
+    color:black;
+    background-color:rgb(215, 209, 201);
+}
+#wut04{
+    background-color: beige;
+}
+#ut2{
+    background-color: beige;
+}
+
+
+
 
 
