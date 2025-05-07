@@ -1,6 +1,10 @@
 
 body{
     background-color: beige;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
 }
 #wut01{
     color: black;
@@ -16,6 +20,7 @@ body{
 }
 #ut2{
     background-color: beige;
+    
 }
 .nav{
     background-color: beige;
