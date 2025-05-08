@@ -11,7 +11,7 @@ body{
     background-attachment: scroll;
     background-attachment: fixed;
     background-position: center;
-    height: 100vh;
+    
 
 }
 nav{
@@ -51,6 +51,9 @@ h1{
     text-align: center;
 }
 #wut02{
+    background-color: rgb(232, 232, 188);
+}
+input{
     background-color: rgb(232, 232, 188);
 }
 
